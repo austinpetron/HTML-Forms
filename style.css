@@ -1,0 +1,21 @@
+form {
+    padding-right: 6px;
+}
+
+form label {
+    display: block;
+}
+
+form input,
+form textarea {
+    width: 100%
+}
+
+form textarea {
+    height: 150px;
+
+}
+
+div {
+    padding-bottom: 15px
+}
